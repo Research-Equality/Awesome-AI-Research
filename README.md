@@ -95,6 +95,10 @@ Systems that attempt to cover meaningful parts of the scientific loop, from idea
   [Code](https://github.com/SamuelSchmidgall/AgentLaboratory) · [Paper](https://arxiv.org/abs/2501.04227) · [Homepage](https://agentlaboratory.github.io/) · [![GitHub stars](https://img.shields.io/github/stars/SamuelSchmidgall/AgentLaboratory?style=flat-square&label=stars)](https://github.com/SamuelSchmidgall/AgentLaboratory/stargazers)<br>
   `Level: System` · `Stage: End-to-end` · `Loop: Human-in-the-loop` · `Domain: General` · `Openness: Open-source`
 
+- [Agon](https://github.com/AutoResearch-Factory/Agon) - Omnidisciplinary research orchestrator built on Prompt Economy, which treats prompt engineering as engineering and maximizes the ROI on every prompt via reusable loops instead of one-off task prompts.<br>
+  [Code](https://github.com/AutoResearch-Factory/Agon) · [Paper](https://arxiv.org/abs/2606.24177) · [![GitHub stars](https://img.shields.io/github/stars/AutoResearch-Factory/Agon?style=flat-square&label=stars)](https://github.com/AutoResearch-Factory/Agon/stargazers)<br>
+  `Level: System` · `Stage: End-to-end` · `Loop: Closed-loop` · `Domain: General` · `Openness: Open-source`
+
 - [MLR-Copilot](https://github.com/du-nlp-lab/MLR-Copilot) - Autonomous machine learning research framework that generates research ideas, implements experiments, and executes them with iterative debugging and human feedback.<br>
   [Code](https://github.com/du-nlp-lab/MLR-Copilot) · [Paper](https://arxiv.org/abs/2408.14033) · [![GitHub stars](https://img.shields.io/github/stars/du-nlp-lab/MLR-Copilot?style=flat-square&label=stars)](https://github.com/du-nlp-lab/MLR-Copilot/stargazers)<br>
   `Level: System` · `Stage: End-to-end` · `Loop: Human-in-the-loop` · `Domain: CS` · `Openness: Open-source`
@@ -391,6 +395,10 @@ Benchmarks, surveys, datasets, and other reference layers that keep the ecosyste
 
 ### Surveys & Taxonomies
 
+- [What's Missing in Autonomous Research?](https://haizhaoyang.github.io/research/autoresearch-survey.html) - Systematizes 56 autonomous research systems along seven axes, finding most can produce research artifacts but few can block weak results before release.<br>
+  [Homepage](https://haizhaoyang.github.io/research/autoresearch-survey.html)<br>
+  `Level: Survey` · `Stage: End-to-end` · `Loop: Human-in-the-loop` · `Domain: General` · `Openness: Paper-only`
+
 - [A Survey of AI Scientists](https://arxiv.org/abs/2510.23045) - Survey focused on automatic scientists and end-to-end AI research pipelines.<br>
   [Paper](https://arxiv.org/abs/2510.23045)<br>
   `Level: Survey` · `Stage: End-to-end` · `Loop: Human-in-the-loop` · `Domain: General` · `Openness: Paper-only`
@@ -416,6 +424,10 @@ Benchmarks, surveys, datasets, and other reference layers that keep the ecosyste
   `Level: Survey` · `Stage: End-to-end` · `Loop: Human-in-the-loop` · `Domain: Multi-domain` · `Openness: Open-source`
 
 ### Benchmarks & Evaluation Suites
+
+- [PerspectiveGap](https://github.com/WhymustIhaveaname/PerspectiveGap) - Benchmark measuring whether LLMs can write orchestration prompts for multi-agent sub-agents, via role-fragment assignment and prompt-writing tasks across 110 scenarios.<br>
+  [Code](https://github.com/WhymustIhaveaname/PerspectiveGap) · [Paper](https://arxiv.org/abs/2606.08878) · [![GitHub stars](https://img.shields.io/github/stars/WhymustIhaveaname/PerspectiveGap?style=flat-square&label=stars)](https://github.com/WhymustIhaveaname/PerspectiveGap/stargazers)<br>
+  `Level: Benchmark` · `Stage: End-to-end` · `Loop: Open-loop` · `Domain: Multi-domain` · `Openness: Open-source`
 
 - [Frontiers in Science](https://openai.com/index/frontierscience/) - Benchmark suite for evaluating scientific reasoning across olympiad-style and research-style tasks.<br>
   [Homepage](https://openai.com/index/frontierscience/)<br>
