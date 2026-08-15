@@ -465,6 +465,10 @@ Benchmarks, surveys, datasets, and other reference layers that keep the ecosyste
   [Code](https://github.com/AkariAsai/ScholarQABench) · [Paper](https://arxiv.org/abs/2411.14199) · [![GitHub stars](https://img.shields.io/github/stars/AkariAsai/ScholarQABench?style=flat-square&label=stars)](https://github.com/AkariAsai/ScholarQABench/stargazers)<br>
   `Level: Benchmark` · `Stage: Literature` · `Loop: Human-in-the-loop` · `Domain: Multi-domain` · `Openness: Open-source`
 
+- [Dr. Bench](https://github.com/EVIGBYEN/DrBench) - Benchmark for deep-research agents that evaluates long-form reports with expert-curated tasks, reference bundles, and metrics for semantic quality, topical focus, and retrieval trustworthiness.<br>
+  [Code](https://github.com/EVIGBYEN/DrBench) · [Paper](https://arxiv.org/abs/2510.02190)<br>
+  `Level: Benchmark` · `Stage: Literature` · `Loop: Human-in-the-loop` · `Domain: Multi-domain` · `Openness: Open-source`
+
 - [RE-Bench](https://github.com/METR/RE-Bench) - Task suite for evaluating frontier AI R&D capabilities of language-model agents against human experts on realistic research engineering tasks.<br>
   [Code](https://github.com/METR/RE-Bench) · [Paper](https://arxiv.org/abs/2411.15114) · [![GitHub stars](https://img.shields.io/github/stars/METR/RE-Bench?style=flat-square&label=stars)](https://github.com/METR/RE-Bench/stargazers)<br>
   `Level: Benchmark` · `Stage: End-to-end` · `Loop: Human-in-the-loop` · `Domain: CS` · `Openness: Partially Open`
