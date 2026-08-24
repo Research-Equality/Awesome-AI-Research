@@ -299,6 +299,10 @@ Stage-specific building blocks for literature review, ideation, planning, coding
   [Homepage](https://scispace.com/)<br>
   `Level: Module` · `Stage: Literature` · `Loop: Human-in-the-loop` · `Domain: General` · `Openness: Closed-source`
 
+- [Lune Research](https://github.com/RetrogradeLabs/lune-mcp-server) - MCP server for full-text search over peer-reviewed computer-science papers, citation traversal, cross-paper evidence extraction, and claim verification against verbatim source passages.<br>
+  [Code](https://github.com/RetrogradeLabs/lune-mcp-server) · [Homepage](https://luneresearch.com/) · [![GitHub stars](https://img.shields.io/github/stars/RetrogradeLabs/lune-mcp-server?style=flat-square&label=stars)](https://github.com/RetrogradeLabs/lune-mcp-server/stargazers)<br>
+  `Level: Module` · `Stage: Literature` · `Loop: Human-in-the-loop` · `Domain: CS` · `Openness: Open-source`
+
 ### Research Ideation & Hypothesis Generation
 
 - [AI co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist) - Google Research's multi-agent scientific collaborator for proposing, debating, ranking, and refining hypotheses with human oversight.<br>
