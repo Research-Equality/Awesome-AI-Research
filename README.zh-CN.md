@@ -299,6 +299,10 @@ README 可见标签采用 5 项紧凑结构：
   [主页](https://scispace.com/)<br>
   `Level: Module` · `Stage: Literature` · `Loop: Human-in-the-loop` · `Domain: General` · `Openness: Closed-source`
 
+- [Lune Research](https://github.com/RetrogradeLabs/lune-mcp-server) - 面向同行评审计算机顶会论文全文检索、引文图谱遍历、跨论文证据提取与原文引述式论断核验的 MCP server。<br>
+  [代码](https://github.com/RetrogradeLabs/lune-mcp-server) · [主页](https://luneresearch.com/) · [![GitHub stars](https://img.shields.io/github/stars/RetrogradeLabs/lune-mcp-server?style=flat-square&label=stars)](https://github.com/RetrogradeLabs/lune-mcp-server/stargazers)<br>
+  `Level: Module` · `Stage: Literature` · `Loop: Human-in-the-loop` · `Domain: CS` · `Openness: Open-source`
+
 ### Research Ideation & Hypothesis Generation
 
 - [AI co-scientist](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist) - Google Research 的多智能体科学协作系统，用于提出、辩论、排序并迭代优化研究假设。<br>
